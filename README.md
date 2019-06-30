@@ -1,4 +1,10 @@
-# vue-samurai
+# シェアハウスで使えそうな掲示板を作ってみた
+
+- 開発ツール Vue cli ver3.8.4
+- フロント Vue.js
+- データベース Firebase Cloud Firestore
+- デザイン Bootstrap
+
 
 ## Project setup
 ```
@@ -14,16 +20,3 @@ npm run serve
 ```
 npm run build
 ```
-
-### Run your tests
-```
-npm run test
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
